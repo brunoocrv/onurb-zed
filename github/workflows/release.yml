@@ -10,7 +10,7 @@ jobs:
     steps:
       - uses: huacnlee/zed-extension-action@v1
         with:
-          extension-name: onurb-zed
-          push-to: brunoocrv/onurb-zed
+          extension-name: onurb
+          push-to: brunoocrv/extensions
         env:
           COMMITTER_TOKEN: ${{ secrets.COMMITTER }}
