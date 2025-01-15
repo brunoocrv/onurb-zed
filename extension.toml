@@ -1,0 +1,7 @@
+id = "onurb"
+name = "onurb theme"
+version = "0.0.2"
+schema_version = 1
+authors = ["brunoocrv <brn.carvalho@icloud.com>"]
+description = "A dark theme for Zed"
+repository = "https://github.com/brunoocrv/onurb-zed"
