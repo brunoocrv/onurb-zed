@@ -1,7 +1,7 @@
 on:
   push:
     tags:
-      - "0.0.1"
+      - "v0.0.1"
 
 jobs:
   homebrew:
