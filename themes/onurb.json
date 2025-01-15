@@ -7,11 +7,11 @@
       "name": "onurb",
       "appearance": "dark",
       "style": {
+        "elevated_surface.background": "#21242bff",
         "border": "#2A2A2A",
         "border.variant": "#383838",
         "border.focused": "#444",
         "border.selected": "#383838",
-        "surface.background": "#1A1A1A",
         "text": "#FFFFFF",
         "text.muted": "#727272",
         "text.placeholder": "#6b737c",
@@ -29,6 +29,7 @@
         "icon.accent": "#C1C1C1",
         "scrollbar.thumb.background": "#2A2A2A",
         "scrollbar.thumb.hover_background": "#383838",
+        "toolbar.background": "#1f1f1f",
         "tab.active_background": "#1f1f1f",
         "tab.active_foreground": "#FAFAFA",
         "tab.inactive_background": "#1A1A1A",
@@ -45,6 +46,19 @@
         "warning": "#f1fa8c",
         "warning.background": "#1f1f1f",
         "warning.border": "#f1fa8c",
+        "info": "#60a5fa",
+        "info.border": "#60a5fa",
+        "info.background": "#1f1f1f",
+        "terminal.background": "#1f1f1f",
+        "terminal.ansi.background": "#FAFAFA",
+        "hint": "#444444",
+        "players": [
+          {
+            "cursor": "#444444",
+            "background": "#444444",
+            "selection": "#444444"
+          }
+        ],
         "syntax": {
           "attribute": { "color": "#50fa7b" },
           "comment": { "color": "#6b737c", "font_style": "italic" },
@@ -55,6 +69,7 @@
           "label": { "color": "#79b8ff" },
           "link_text": { "color": "#1976D2" },
           "number": { "color": "#bd93f9" },
+          "boolean": { "color": "#bd93f9" },
           "property": { "color": "#deb8fa" },
           "string": { "color": "#f1fa8c" },
           "string.escape": { "color": "#FF9800" },
