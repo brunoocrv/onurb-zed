@@ -1,6 +1,6 @@
 id = "onurb"
 name = "onurb theme"
-version = "0.0.4"
+version = "0.0.5"
 schema_version = 1
 authors = ["brunoocrv <brn.carvalho@icloud.com>"]
 description = "A dark theme for Zed"

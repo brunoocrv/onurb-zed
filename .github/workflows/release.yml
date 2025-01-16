@@ -15,4 +15,4 @@ jobs:
           push-to: brunoocrv/extensions
         env:
           # the personal access token should have "repo" & "workflow" scopes
-          COMMITTER: ${{ secrets.COMMITTER }}
+          COMMITTER_TOKEN: ${{ secrets.COMMITTER_TOKEN }}
