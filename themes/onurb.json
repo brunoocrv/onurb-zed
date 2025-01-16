@@ -7,7 +7,6 @@
       "name": "onurb",
       "appearance": "dark",
       "style": {
-        "elevated_surface.background": "#21242bff",
         "border": "#2A2A2A",
         "border.variant": "#383838",
         "border.focused": "#444",
@@ -51,6 +50,8 @@
         "info.background": "#1f1f1f",
         "terminal.background": "#1f1f1f",
         "terminal.ansi.background": "#FAFAFA",
+        "surface.background": "#1f1f1f",
+        "elevated_surface.background": "#1f1f1f",
         "hint": "#444444",
         "players": [
           {
